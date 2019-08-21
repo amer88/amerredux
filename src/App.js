@@ -4,6 +4,7 @@ import './App.css';
 import Counter from './containers/container/Counter';
 
 function App() {
+  console.log('hiiiii');
   return (
     <div className="App">
       <Counter />
